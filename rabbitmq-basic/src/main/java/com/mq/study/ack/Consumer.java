@@ -10,6 +10,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 自动应答消费者端
+ * @author gaoliangliang
  */
 
 public class Consumer {

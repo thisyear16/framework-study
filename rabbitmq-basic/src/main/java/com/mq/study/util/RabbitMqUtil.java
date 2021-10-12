@@ -7,6 +7,9 @@ import com.rabbitmq.client.ConnectionFactory;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
+/**
+ * @author gaoliangliang
+ */
 public class RabbitMqUtil {
 
     public static Channel getChannel() throws IOException, TimeoutException {

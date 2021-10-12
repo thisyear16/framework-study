@@ -11,6 +11,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 主題模式
+ * @author gaoliangliang
  */
 public class TopicProducer {
 

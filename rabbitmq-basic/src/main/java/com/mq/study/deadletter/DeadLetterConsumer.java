@@ -10,6 +10,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 死信队列消费者
+ * @author gaoliangliang
  */
 public class DeadLetterConsumer {
     public static final String NORMAL_EXCHANGE="normal_exchange";

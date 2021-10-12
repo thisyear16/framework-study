@@ -10,6 +10,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 死信队列
+ * @author gaoliangliang
  */
 public class DeadLetterProducer {
 

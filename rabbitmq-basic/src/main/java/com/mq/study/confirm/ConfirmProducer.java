@@ -12,6 +12,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 发布确认
+ * @author gaoliangliang
  */
 public class ConfirmProducer {
 

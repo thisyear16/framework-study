@@ -10,6 +10,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 交换机相关
+ * @author gaoliangliang
  */
 public class ExchangeProducer {
 

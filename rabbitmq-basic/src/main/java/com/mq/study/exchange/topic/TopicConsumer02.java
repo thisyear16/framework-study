@@ -11,6 +11,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 主题交换机消费者
+ * @author gaoliangliang
  */
 public class TopicConsumer02 {
 

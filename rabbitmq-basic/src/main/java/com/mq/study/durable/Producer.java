@@ -10,6 +10,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * 持久化队列
  * 消息持久化
+ * @author gaoliangliang
  */
 public class Producer {
 

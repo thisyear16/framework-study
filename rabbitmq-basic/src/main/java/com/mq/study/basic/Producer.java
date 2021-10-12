@@ -9,6 +9,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  *简单生产者
+ * @author gaoliangliang
  */
 public class Producer {
 

@@ -11,6 +11,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * info 队列
+ * @author gaoliangliang
  */
 public class InfoDirectConsumer {
     public static final String EXCHANGE_NAME="direct_logs";

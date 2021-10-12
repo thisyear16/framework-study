@@ -8,6 +8,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 接受持久化消息
+ * @author gaoliangliang
  */
 public class DurableConsumer {
 

@@ -11,6 +11,7 @@ import java.util.concurrent.TimeoutException;
 
 /**
  * 直连交换机
+ * @author gaoliangliang
  */
 public class DirectProducer {
 
